@@ -97,8 +97,7 @@ Full Stack Developer (MERN Specialization)
       </td>
       <td align="center">
         <a href="https://jwt.io/" target="_blank">
-          <img src="https://media.licdn.com/dms/image/v2/D5612AQGq2VpDubw9pw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721188761705?e=2147483647&v=beta&t=N963NFdCP3GLx5O-Q6HMwKNPYNQLlcqXNGISjDgcsrw" width="50px" /></a>
-        <br><b>JWT Auth</b>
+          <img src="https://media.licdn.com/dms/image/v2/D5612AQGq2VpDubw9pw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721188761705?e=2147483647&v=beta&t=N963NFdCP3GLx5O-Q6HMwKNPYNQLlcqXNGISjDgcsrw" width="50px" /></a><br><b>JWT Auth</b>
       </td>
     </tr>
   </table>
@@ -111,6 +110,9 @@ Full Stack Developer (MERN Specialization)
   <a href="https://github.com/Rahul-Biradar-09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> 
   </a>&nbsp;
   <a href="https://linkedin.com/in/rahul-biradar-371459190" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> 
+  </a>&nbsp;
+  <a href="https://rahul-portfolio-seven-xi.vercel.app/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6e08061b-16a1-48dc-a3b4-00674cb49f47
+" /> <img src="https://github.com/user-attachments/assets/6e08061b-16a1-48dc-a3b4-00674cb49f47" width="40" height="40" /> </picture> 
   </a>
 </p>
 
