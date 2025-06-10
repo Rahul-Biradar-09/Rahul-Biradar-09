@@ -111,8 +111,7 @@ Full Stack Developer (MERN Specialization)
   </a>&nbsp;
   <a href="https://linkedin.com/in/rahul-biradar-371459190" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> 
   </a>&nbsp;
-  <a href="https://rahul-portfolio-seven-xi.vercel.app/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6e08061b-16a1-48dc-a3b4-00674cb49f47
-" /> <img src="https://github.com/user-attachments/assets/6e08061b-16a1-48dc-a3b4-00674cb49f47" width="40" height="40" /> </picture> 
+  <a href="https://rahul-portfolio-seven-xi.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6e08061b-16a1-48dc-a3b4-00674cb49f47" width="40" height="40" color="white" /> 
   </a>
 </p>
 
