@@ -74,7 +74,7 @@ An enterprise HR and Payroll Management System designed to streamline recruitmen
 
 ### Technologies
 
-`React.js` • `PHP` • `CodeIgniter 4` • `MySQL` • `REST APIs` • `Git`
+`PHP` • `CodeIgniter 4` • `MySQL` • `Bootstrap` • `JavaScript` • `jQuery` • `DataTables`
 
 ---
 
@@ -97,7 +97,7 @@ A healthcare platform enabling patients to book appointments, manage doctor sche
 
 ### Technologies
 
-`React.js` • `Slim PHP Framework` • `CodeIgniter 3` • `MySQL`
+`React.js` • `Slim PHP Framework` • `PHP` • `CodeIgniter 3` • `MySQL` • `Bootstrap` • `JavaScript`
 
 ---
 
@@ -119,7 +119,7 @@ An educational platform connecting students with tutors and institutions across 
 
 ### Technologies
 
-`React.js` • `PHP` • `CodeIgniter 4` • `MySQL`
+`React.js` • `Slim PHP Framework` • `PHP` • `CodeIgniter 4` • `MySQL` • `Bootstrap` • `JavaScript`
 
 ---
 
