@@ -22,7 +22,7 @@ Full Stack Developer with <b>2+ years of professional experience</b> building en
 - ⚙️ Passionate about building scalable web applications and solving real-world business problems
 - 🤝 Open to collaborating on exciting Full Stack projects
 - 📧 Email: **rahulbiradar.work@gmail.com**
-- 🌐 Portfolio: **https://rahulbiradar.ccbp.tech**
+- 🌐 Portfolio: **https://rahul-developer-portfolio.vercel.app/**
 
 ---
 
