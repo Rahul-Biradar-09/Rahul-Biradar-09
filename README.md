@@ -6,7 +6,7 @@ Full Stack Developer (MERN Specialization)
 
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [rahulbiradar1111@gmail.com](mailto:rahulbiradar1111@gmail.com)
+* ✉️  You can contact me at [rahulbiradar.work@gmail.com](mailto:rahulbiradar.woprk@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 
