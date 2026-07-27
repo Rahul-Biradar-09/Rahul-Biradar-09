@@ -13,14 +13,14 @@ Full Stack Developer with <b>2+ years of professional experience</b> building en
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💼 Full Stack Developer with **2+ years of experience**
 - 🌍 Based in **Hyderabad, India**
-- 💻 Experienced in **React.js, PHP, CodeIgniter, Node.js, MySQL**
-- 🏢 Previously worked at **Sanvima Solutions Private Limited**
-- ⚙️ Built ERP Systems, Healthcare Platforms, Admin Portals & REST APIs
-- 🤝 Open to collaborating on interesting Full Stack projects
+- 🏢 Former **Senior Developer at Sanvima Solutions Pvt. Ltd.**
+- 💻 Specialized in **React.js, PHP, CodeIgniter, Node.js, MySQL**
+- ⚙️ Passionate about building scalable web applications and solving real-world business problems
+- 🤝 Open to collaborating on exciting Full Stack projects
 - 📧 Email: **rahulbiradar.work@gmail.com**
 - 🌐 Portfolio: **https://rahulbiradar.ccbp.tech**
 
@@ -33,27 +33,99 @@ Full Stack Developer with <b>2+ years of professional experience</b> building en
 
 **April 2024 – June 2026**
 
-Worked on enterprise web applications across Healthcare, ERP and Educational domains.
+Worked as a Full Stack Developer building enterprise-grade applications for Healthcare, ERP, Recruitment, Payroll and Educational domains.
 
-Responsibilities included:
+### Responsibilities
 
-- Developing scalable React.js applications
-- Building RESTful APIs
-- Developing ERP modules
-- Payroll Management
-- Recruitment System
-- Admin Panels
-- MySQL Database Design
-- Production Support
-- Performance Optimization
-- Client Requirement Implementation
-- Team Leadership (3 Developers)
+- Built scalable React.js applications
+- Developed RESTful APIs using PHP & Slim Framework
+- Worked with CodeIgniter 3 & 4
+- Designed MySQL databases
+- Developed ERP modules
+- Built Admin Panels
+- Integrated frontend with backend APIs
+- Fixed production issues
+- Optimized application performance
+- Worked directly with clients
+- Led a development team of 3 members
+- Participated in deployments and production releases
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Professional Projects
 
-## Frontend
+## 🏢 Alpha ERP – Recruitment & Payroll Management System
+
+An enterprise HR and Payroll Management System designed to streamline recruitment, employee management and payroll processing for organizations.
+
+### Key Features
+
+- Recruitment Management
+- Candidate Onboarding
+- Employee Management
+- Attendance & Leave Management
+- Payroll Processing
+- Salary Structures
+- Salary Deductions
+- Payslip Generation
+- Job Posting Workflow
+- Admin Dashboard
+- REST API Integration
+
+### Technologies
+
+`React.js` • `PHP` • `CodeIgniter 4` • `MySQL` • `REST APIs` • `Git`
+
+---
+
+## 🏥 Medayus – Healthcare Appointment Management Platform
+
+A healthcare platform enabling patients to book appointments, manage doctor schedules and access healthcare services across multiple locations.
+
+### Key Features
+
+- Patient Registration
+- Appointment Booking
+- Doctor Scheduling
+- Department Management
+- Time Slot Management
+- Prescription Workflow
+- Admin Panel
+- REST API Integration
+- Production Support
+- Performance Optimization
+
+### Technologies
+
+`React.js` • `Slim PHP Framework` • `CodeIgniter 3` • `MySQL`
+
+---
+
+## 🎓 Kalakakshaaha – Online Learning & Tutor Discovery Platform
+
+An educational platform connecting students with tutors and institutions across various learning categories.
+
+### Key Features
+
+- Tutor Registration
+- Student Registration
+- Profile Management
+- Course Discovery
+- Search Functionality
+- Admin Dashboard
+- Backend Management
+- Database Integration
+- Production Maintenance
+
+### Technologies
+
+`React.js` • `PHP` • `CodeIgniter 4` • `MySQL`
+
+---
+
+# 🛠️ Technical Skills
+
+### Frontend
 
 - React.js
 - JavaScript (ES6+)
@@ -61,7 +133,7 @@ Responsibilities included:
 - CSS3
 - Bootstrap
 
-## Backend
+### Backend
 
 - PHP
 - CodeIgniter 3
@@ -70,11 +142,11 @@ Responsibilities included:
 - Node.js
 - Express.js
 
-## Database
+### Database
 
 - MySQL
 
-## Tools
+### Tools
 
 - Git
 - GitHub
@@ -85,53 +157,22 @@ Responsibilities included:
 - Vite
 - Vercel
 
-## Concepts
+### Development Concepts
 
 - REST APIs
 - MVC Architecture
-- Authentication
 - Database Design
-- Responsive Design
+- Authentication
+- Responsive Web Design
 - SDLC
-- Debugging
 - Production Support
+- Debugging
 - Deployment
+- Performance Optimization
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏢 Alpha ERP
-
-Enterprise Recruitment & Payroll Management System
-
-**Tech Stack**
-
-React.js • PHP • CodeIgniter 4 • MySQL • REST APIs
-
----
-
-### 🏥 Medayus
-
-Healthcare Appointment Management Platform
-
-**Tech Stack**
-
-React.js • Slim PHP • CodeIgniter 3 • MySQL
-
----
-
-### 🎓 Kalakakshaaha
-
-Online Learning & Tutor Discovery Platform
-
-**Tech Stack**
-
-React.js • PHP • CodeIgniter 4 • MySQL
-
----
-
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -139,11 +180,11 @@ React.js • PHP • CodeIgniter 4 • MySQL
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rahulbiradar/">
+<a href="https://www.linkedin.com/in/rahul-biradar-371459190">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://rahulbiradar.ccbp.tech">
+<a href="https://rahul-developer-portfolio.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 
@@ -160,3 +201,14 @@ React.js • PHP • CodeIgniter 4 • MySQL
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Biradar-09&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
+
+---
+
+## 💡 Interests
+
+- 🚀 Full Stack Web Development
+- 🏢 Enterprise Software Development
+- 📊 ERP & Business Applications
+- ⚡ REST API Development
+- ☁️ Scalable Web Applications
+- 🤖 Currently exploring AI-powered development tools and modern software engineering practices.
