@@ -4,7 +4,7 @@ I'm Rahul Biradar
 </h1>
 
 <h3 align="center">
-Full Stack Developer | React.js • PHP • CodeIgniter • Node.js
+Full Stack Developer | React.js • PHP • Slim Framework • MySQL • CodeIgniter 
 </h3>
 
 <p align="center">
