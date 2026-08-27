@@ -17,7 +17,7 @@ Full Stack Developer with <b>2+ years of professional experience</b> building en
 
 - 💼 Full Stack Developer with **2+ years of professional experience**
 - 🌍 Based in **Hyderabad, Telangana, India**
-- 🏢 Former **Junior Developer at Sanvima Solutions Private Limited**
+- 🏢 Former **Associate Developer at Sanvima Solutions Private Limited**
 - 💻 Specialized in **React.js, PHP, CodeIgniter, Slim Framework, and MySQL**
 - 🌱 Currently expanding my expertise in **Node.js, Express.js, MongoDB, and the MERN Stack**
 - ⚙️ Passionate about building scalable web applications and solving real-world business problems
